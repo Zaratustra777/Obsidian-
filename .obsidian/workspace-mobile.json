@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Obsidian/How-Obsidian-Helps-Me.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How-Obsidian-Helps-Me"
+              "title": "Dashboard"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Knowledge/Obsidian/How-Obsidian-Helps-Me.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,27 @@
   },
   "active": "004409022f34ff71",
   "lastOpenFiles": [
+    "Assets/Tech",
+    "Assets/Transport/car.md",
+    "Assets/Transport",
+    "Assets/Housing/dom-vishnevaya.md",
+    "Assets/Housing/house-andrey-ivanovka.md",
+    "Assets/Housing/apartment.md",
+    "Assets/Housing",
+    "Life/current-responsibilities.md",
+    "Без названия.base",
+    "Dashboard.md",
+    "Assets/dom-vishnevaya.md",
+    "Assets/car.md",
+    "Knowledge/material-resources.md",
+    "Knowledge/Obsidian/How-Obsidian-Helps-Me.md",
+    "Assets/apartment.md",
+    "Assets/house-andrey-ivanovka.md",
+    "Tasks",
+    "Assets",
+    "Life",
+    "Без названия.md",
+    "Без названия",
     "00_Inbox/first-note.md"
   ]
 }

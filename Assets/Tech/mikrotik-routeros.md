@@ -1,5 +1,5 @@
 ---
-type: asset
+type: Lern
 category: tech
 status: active
 priority: medium

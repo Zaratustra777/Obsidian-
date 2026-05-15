@@ -6,11 +6,16 @@ Update only YAML metadata.
 
 Do not rewrite note body.
 
-Fields to update:
-- status
-- priority
-- monthlyPay
-- comments
-- category
+Entities to update:
 
-Return updated metadata block only.
+- appartment
+- dom-vishnevaya
+- house-andrey-ivanovka
+
+Fields to update:
+
+- monthlyPay 5000
+- mountluPay 100
+- mountluPay 100
+
+Return command for termux only.

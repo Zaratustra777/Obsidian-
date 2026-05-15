@@ -3,7 +3,7 @@ type: asset
 category: housing
 status: active
 priority: medium
-monthlyPay: 0
+monthlyPay: 100
 comments: Дом Вишневая
 ---
 
